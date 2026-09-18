@@ -12,7 +12,7 @@
 
 ## 1. Project Title
 
-**Hotel Management System: A Java-Based Console Application for Room and Booking Management**
+**Hotel Management System: A Java-Based Console Application for Room and Booking Management**  
 
 ---
 
