@@ -1,4 +1,4 @@
-package hotelmanagement;
+package hotelmanagement;  
 public class BillCalculator {
     public static double calculateRoomBill(Room room,int nights){return room.getPricePerNight()*nights;}
     public static double calculateTax(double amount){return amount*0.12;}
