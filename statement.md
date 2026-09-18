@@ -90,7 +90,7 @@ The user can search for a guest by name and view the related booking.
 
 ### 6.5 Booking Modification
 
-The number of nights for an existing booking can be changed. The bill is then calculated again.
+The number of nights for an existing booking can be changed. The bill is then calculated again.  
 
 ### 6.6 Bill Calculation
 
@@ -420,7 +420,7 @@ The project demonstrates important Java concepts such as classes, objects, metho
 
 ---
 
-## Author
+## Author 
 
 **Rahul Priyadarshi**  
 **Registration Number:** 25BAI11101  
